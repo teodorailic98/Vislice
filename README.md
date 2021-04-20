@@ -4,7 +4,6 @@
 
 * Matjaž Zaveršnik
 * Matija Pretnar
-* Janez Novak
 * Teodora Ilić
 
 ## Opis
