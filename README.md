@@ -1,5 +1,10 @@
 # Vislice
-Vaje UVP
+
+## Avtorji
+
+* Matjaž Zaveršnik
+* Matija Pretnar
+
 ## Opis
 
 Vislice so kratka igra, kjer igralec ugiba besedo.
